@@ -47,17 +47,29 @@ function Hero() {
 
         <div className="contact">
           <h3>Contact me: </h3>
-          <a href="">
+          <a
+            href="mailto:sleight.nald@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={mail} alt="mail"></img>
           </a>
-          <a href="">
+          <a
+            href="https://github.com/nald1nald"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               src={github}
               alt="github"
               style={{ filter: "invert(1)" }}
             ></img>
           </a>
-          <a href="">
+          <a
+            href="https://www.linkedin.com/in/reynald-arro-4449b125a/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={linkedin} alt="linkedin"></img>
           </a>
         </div>
