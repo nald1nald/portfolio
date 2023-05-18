@@ -41,7 +41,7 @@ function Hero() {
         </div>
         <div className="stacks">
           <h1>
-            I build stuffs with <span className="typed" ref={spanRef}></span>
+            I build stuff with <span className="typed" ref={spanRef}></span>
           </h1>
         </div>
 
