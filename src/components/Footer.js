@@ -16,6 +16,15 @@ function Footer() {
           Check my projects
         </a>
       </h3>
+      <h3>
+        <a
+          href="https://assets.kodego.ph/public/isa/TqoEkkSR46Dz948zP5a46goyt4dkqITRZhqIWBol.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View my certification
+        </a>
+      </h3>
     </footer>
   );
 }
